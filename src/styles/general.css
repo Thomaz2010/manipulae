@@ -1,0 +1,30 @@
+.div-search-button{
+    float: left;
+    padding: 30px;
+    width: 2px;
+    height: 10px;
+}
+
+table, td, th {  
+    border: 2px solid #ddd;
+    text-align: left;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    padding: 15px;
+  }
+  input[type=text] {
+    float: left;
+    padding: 6px;
+    border: 0.5px solid #ccc;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+    margin-bottom: 100px;
+
+  }
